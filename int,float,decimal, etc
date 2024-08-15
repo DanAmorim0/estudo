@@ -1,0 +1,50 @@
+using System;
+
+
+        // double = ponto flutuante com alta precisão e intervalos grandes;
+
+        // float = ponto flutuante quando a memória é uma preocupação. f
+
+        // decimal (m) = cálculos de alta precisão (128 bits) - Stock Market
+
+        // int, long (L), short, byte - números inteiros de diferentes tamanhos.
+
+
+class Program
+{
+    static void Main()
+    {
+        /*Console.WriteLine("Digite um número para ver a tabuada");
+            int num = Convert.ToInt32(Console.ReadLine());
+
+        if (num % 2 == 0)
+        {   
+            Console.WriteLine("o número é par.");
+        }
+        else
+        {
+           Console.WriteLine("o número é ímpar");
+        }
+        for (int i = 0; i <=10; i++)
+        {
+        Console.WriteLine($"{num} x {i} = {num * i}");
+        }
+
+        for(int i = 1; i <=10; i++)
+        {
+        Console.WriteLine(i);
+        }
+        Console.WriteLine("Digite o primeiro número: ");
+        double num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Digite segundo número: ");
+        double num2 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Digite o terceiro número: ");
+        double num3 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine($"a média entre: {num1}, {num2} e {num3} é: {(num1 + num2 + num3)/3}");
+        
+    */
+    }
+}
